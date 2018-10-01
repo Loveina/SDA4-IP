@@ -1,3 +1,10 @@
+/**
+ * Provide a simple to-do application.
+ 
+ * @author Loveina Mohan
+ * @version 2018.10.01
+ */
+
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
