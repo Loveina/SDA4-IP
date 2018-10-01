@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.ArrayList;
 
 
-public class Task 
+public class Task
 {	
 	private String title;
 	private Date date;
